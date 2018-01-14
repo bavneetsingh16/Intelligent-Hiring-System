@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {font-family: Arial;}
+
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+
+/* The container */
+.container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+    position: absolute;
+    opacity: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container input:checked ~ .checkmark {
+    background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+    display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+
+
+</style>
+</head>
+<body>
+<form action="/choices/" method="post">
+<p>Click on the buttons inside the tabbed menu:</p>
+
+<div class="tab">
+<button type="button" class="tablinks" onclick="openCity(event, 'finance')" class="active">finance</button>
+  <button type="button" class="tablinks" onclick="openCity(event, 'management')">management</button>
+  <button type="button" class="tablinks" onclick="openCity(event, 'arts')">arts</button>
+
+  <button type="button" class="tablinks" onclick="openCity(event, 'Programming')">Programming</button>
+  <button type="button" class="tablinks" onclick="openCity(event, 'cs')">cs</button>
+  <button type="button" class="tablinks" onclick="openCity(event,'engineering')">engineering</button>
+</div>
+<div id="finance" class="tabcontent" style="display:block">
+<label class="container">financial reporting
+  <input type="checkbox"  name="finance2" id=financial value="financial reporting">
+  <span class="checkmark"></span>
+</label>
+<label class="container">excel 
+  <input type="checkbox"   name="finance2"  id="excel" value="excel">
+  <span class="checkmark"></span>
+</label>
+<label class="container">finance
+  <input type="checkbox"   name="finance2"  id="finance2" value="finance">
+  <span class="checkmark"></span>
+</label>
+<label class="container">trend analysis 
+  <input type="checkbox"   name="finance2"  id="trend analysis" value="trend analysis">
+  <span class="checkmark"></span>
+</label>
+<label class="container">financial statement 
+  <input type="checkbox"   name="finance2"  id="financial statement" value="financial statement">
+  <span class="checkmark"></span>
+</label>
+<label class="container">result analysis 
+  <input type="checkbox"    name="finance2" id="result analysis" value="result analysis">
+  <span class="checkmark"></span>
+</label>
+<label class="container">strategic planning 
+  <input type="checkbox"   name="finance2" id="strategic planning" value="strategic planning">
+  <span class="checkmark"></span>
+</label>
+<label class="container">DCF
+  <input type="checkbox"    name="finance2" id="DCF" value="DCF">
+  <span class="checkmark"></span>
+</label>
+<label class="container">presentation skills 
+  <input type="checkbox"   name="finance2"  id="presentation skills" value="presentation skills">
+  <span class="checkmark"></span>
+</label>
+
+<label class="container">team player 
+  <input type="checkbox"    name="finance2" id="team player" value="team player">
+  <span class="checkmark"></span>
+</label>
+<label class="container">financial analysis 
+  <input type="checkbox"    name="finance2" id="financial analysis" value="financial analysis">
+  <span class="checkmark"></span>
+</label>
+<label class="container">forecasting
+  <input type="checkbox"    name="finance2" id="forecasting" value="forecasting">
+  <span class="checkmark"></span>
+</label>
+<label class="container">policy development
+  <input type="checkbox"    name="finance2" id="policy development" value="policy development">
+  <span class="checkmark"></span>
+</label>
+<label class="container">business policies 
+  <input type="checkbox"    name="finance2" id="business policies" value="business policies">
+  <span class="checkmark"></span>
+</label>
+<label class="container">powerpoint 
+  <input type="checkbox"    name="finance2" id="powerpoint" value="powerpoint">
+  <span class="checkmark"></span>
+</label>
+<label class="container">microsoft word
+  <input type="checkbox"   name="finance2" id="microsoft word" value="microsoft word">
+  <span class="checkmark"></span>
+</label>
+<label class="container">team 
+  <input type="checkbox"   name="finance2" id="team" value="team">
+  <span class="checkmark"></span>
+</label>
+<label class="container">ability 
+  <input type="checkbox"    name="finance2" id="ability" value="ability">
+  <span class="checkmark"></span>
+</label>
+<label class="container">accounting 
+  <input type="checkbox"   name="finance2"  id="accounting" value="accounting">
+  <span class="checkmark"></span>
+</label>
+<label class="container">accountant
+  <input type="checkbox"    name="finance2" id="accountant" value="accountant">
+  <span class="checkmark"></span>
+</label>
+<label class="container">liquidy
+  <input type="checkbox"   name="finance2" id="liquidy" value="liquidy">
+  <span class="checkmark"></span>
+</label>
+<label class="container">money 
+  <input type="checkbox"    name="finance2" id="money" value="money">
+  <span class="checkmark"></span>
+</label>
+<label class="container">stocks 
+  <input type="checkbox"    name="finance2" id="stocks" value="stocks">
+  <span class="checkmark"></span>
+</label>
+
+</div>
+
+<div id="management" class="tabcontent">
+<label class="container">data analysis 
+  <input type="checkbox" name="management" value="data analysis">
+  <span class="checkmark"></span>
+</label>
+<label class="container">automation 
+  <input type="checkbox"  name="management" value="automation">
+  <span class="checkmark"></span>
+</label>
+<label class="container">ability to plan 
+  <input type="checkbox" name="management" id="ability to plan" value="ability to plan">
+  <span class="checkmark"></span>
+</label>
+<label class="container">customer 
+  <input type="checkbox" name="management" value="customer">
+  <span class="checkmark"></span>
+</label>
+<label class="container">interaction 
+  <input type="checkbox" name="management" value="interaction">
+  <span class="checkmark"></span>
+</label>
+<label class="container">consumer 
+  <input type="checkbox"  name="management"value="consumer">
+  <span class="checkmark"></span>
+</label>
+<label class="container">implement 
+  <input type="checkbox" name="management" value="implement">
+  <span class="checkmark"></span>
+</label>
+<label class="container">analytical 
+  <input type="checkbox" name="management" value="analytical">
+  <span class="checkmark"></span>
+</label>
+<label class="container">network 
+  <input type="checkbox" name="management" value="network">
+  <span class="checkmark"></span>
+</label>
+
+<label class="container">hiring 
+  <input type="checkbox" name="management" value="hiring">
+  <span class="checkmark"></span>
+</label>
+<label class="container">firing 
+  <input type="checkbox" name="management" value="firing">
+  <span class="checkmark"></span>
+</label>
+<label class="container">business development 
+  <input type="checkbox" name="management" value="business development">
+  <span class="checkmark"></span>
+</label>
+<label class="container">contract negotiation 
+  <input type="checkbox" name="management" value="contract negotiation">
+  <span class="checkmark"></span>
+</label>
+<label class="container">budget 
+  <input type="checkbox" name="management" value="budget">
+  <span class="checkmark"></span>
+</label>
+<label class="container">leadership 
+  <input type="checkbox" name="management" value="leadership">
+  <span class="checkmark"></span>
+</label>
+<label class="container">operational development 
+  <input type="checkbox"  name="management"value="operational development">
+  <span class="checkmark"></span>
+</label>
+<label class="container">evaluations 
+  <input type="checkbox" name="management"value="evaluations">
+  <span class="checkmark"></span>
+</label>
+<label class="container">management 
+  <input type="checkbox" name="management" value="management">
+  <span class="checkmark"></span>
+</label>
+<label class="container">business 
+  <input type="checkbox" name="management" value="business">
+  <span class="checkmark"></span>
+</label>
+<label class="container">project planning 
+  <input type="checkbox" name="management" value="project planning">
+  <span class="checkmark"></span>
+</label>
+<label class="container">production schedule
+  <input type="checkbox" name="management" value="production schedule">
+  <span class="checkmark"></span>
+</label>
+<label class="container">responsibility 
+  <input type="checkbox" name="management" value="responsibility">
+  <span class="checkmark"></span>
+</label>
+<label class="container">budgeting 
+  <input type="checkbox" name="management" value="budgeting">
+  <span class="checkmark"></span>
+</label>
+<label class="container">optimization 
+  <input type="checkbox" name="management" value="optimization">
+  <span class="checkmark"></span>
+</label>
+<label class="container">decision making 
+  <input type="checkbox" name="management"value="decision making">
+  <span class="checkmark"></span>
+</label>
+<label class="container">organization 
+  <input type="checkbox"name="management"value="organization">
+  <span class="checkmark"></span>
+</label>
+<label class="container">business 
+  <input type="checkbox" name="management" value="business">
+  <span class="checkmark"></span>
+</label>
+</div>
+
+<div id="arts" class="tabcontent">
+<label class="container">performance 
+  <input type="checkbox"  name="arts" id="performance" value="performance">
+  <span class="checkmark"></span>
+</label>
+<label class="container">exhibit 
+  <input type="checkbox"  name="arts" id="exhibit" value="exhibit">
+  <span class="checkmark"></span>
+</label>
+<label class="container">music 
+  <input type="checkbox" name="arts"  id="music" value="music">
+  <span class="checkmark"></span>
+</label>
+<label class="container">art 
+  <input type="checkbox" name="arts"  id="art" value="art">
+  <span class="checkmark"></span>
+</label>
+<label class="container">writing 
+  <input type="checkbox"  name="arts" id="writing" value="writing">
+  <span class="checkmark"></span>
+</label>
+<label class="container">expressive 
+  <input type="checkbox"  name="arts" id="expressive" value="expressive">
+  <span class="checkmark"></span>
+</label>
+<label class="container">editing 
+  <input type="checkbox" name="arts" id="editing" value="editing">
+  <span class="checkmark"></span>
+</label>
+<label class="container">editorial 
+  <input type="checkbox"  name="arts" id="editorial" value="editorial">
+  <span class="checkmark"></span>
+</label>
+<label class="container">social work 
+  <input type="checkbox"  name="arts" id="social work" value="social work">
+  <span class="checkmark"></span>
+</label>
+
+<label class="container">artist 
+  <input type="checkbox"  name="arts" id="artist" value="artist">
+  <span class="checkmark"></span>
+</label>
+<label class="container">musician 
+  <input type="checkbox" name="arts"  id="musician" value="musician">
+  <span class="checkmark"></span>
+</label>
+<label class="container">collaborative 
+  <input type="checkbox"  name="arts" id="collaborative" value="collaborative">
+  <span class="checkmark"></span>
+</label>
+<label class="container">group 
+  <input type="checkbox" name="arts"  id="group" value="group">
+  <span class="checkmark"></span>
+</label>
+<label class="container">program 
+  <input type="checkbox" name="arts"  id="program" value="program">
+  <span class="checkmark"></span>
+</label>
+<label class="container">exhibition 
+  <input type="checkbox" name="arts"  id="exhibition" value="exhibition">
+  <span class="checkmark"></span>
+</label>
+<label class="container">media 
+  <input type="checkbox" name="arts"  id="media" value="media">
+  <span class="checkmark"></span>
+</label>
+<label class="container">blog 
+  <input type="checkbox" name="arts" id="blog" value="blog">
+  <span class="checkmark"></span>
+</label>
+<label class="container">journalism 
+  <input type="checkbox" name="arts"  id="journalism" value="journalism">
+  <span class="checkmark"></span>
+</label>
+<label class="container">creative 
+  <input type="checkbox"  name="arts" id="creative" value="creative">
+  <span class="checkmark"></span>
+</label>
+<label class="container">workshop 
+  <input type="checkbox" name="arts"  id="workshop" value="workshop">
+  <span class="checkmark"></span>
+</label>
+<label class="container">master class 
+  <input type="checkbox"  name="arts" id="master class" value="master class">
+  <span class="checkmark"></span>
+</label>
+<label class="container">teaching 
+  <input type="checkbox" name="arts"  id="teaching" value="teaching">
+  <span class="checkmark"></span>
+</label>
+<label class="container">lectures 
+  <input type="checkbox" name="arts"  id="lectures" value="lectures">
+  <span class="checkmark"></span>
+</label>
+<label class="container">practice 
+  <input type="checkbox" name="arts"  id="practice" value="practice">
+  <span class="checkmark"></span>
+</label>
+<label class="container">studio 
+  <input type="checkbox" name="arts" id="studio" value="studio">
+  <span class="checkmark"></span>
+</label>
+<label class="container">newspaper 
+  <input type="checkbox" name="arts" id="newspaper" value="newspaper">
+  <span class="checkmark"></span>
+</label>
+<label class="container">english 
+  <input type="checkbox" name="arts" id="english" value="english">
+  <span class="checkmark"></span>
+</label>
+</div>
+
+<div id="Programming" class="tabcontent">
+<label class="container" >assembly
+  <input type="checkbox" name="Programming" value="assembly" >
+  <span class="checkmark"></span>
+</label>
+<label class="container" >bash
+  <input type="checkbox" name="Programming" value="bash">
+  <span class="checkmark"></span>
+</label>
+<label class="container" >c
+  <input type="checkbox" name="Programming" value="c">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >c++
+  <input type="checkbox"  name="Programming" value="c++">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >c#
+  <input type="checkbox"  name="Programming" value="c#" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >coffeescript
+  <input type="checkbox" name="Programming" value="coffeescript" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >emacs lisp
+  <input type="checkbox" name="Programming" value="emacs lisp" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >go!
+  <input type="checkbox" name="Programming" value="go!" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >groovy
+  <input type="checkbox" name="Programming" value="groovy" >
+  <span class="checkmark"></span>
+  
+  </label>
+  <label class="container" >haskell
+  <input type="checkbox"  name="Programming" value="haskell">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >java
+  <input type="checkbox" name="Programming" value="java" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >javascript
+  <input type="checkbox" name="Programming" value="javascript" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >matlab
+  <input type="checkbox" name="Programming" value="matlab" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >max MSP
+  <input type="checkbox" name="Programming" value="max MSP">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >objective c
+  <input type="checkbox" name="Programming" value="objective c" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >perl
+  <input type="checkbox" name="Programming" value="perl">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >php
+  <input type="checkbox" name="Programming" value="php">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >html
+  <input type="checkbox" name="Programming" value="html" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >xml
+  <input type="checkbox" name="Programming" value="xml">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >css
+  <input type="checkbox" name="Programming" value="css">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >processing
+  <input type="checkbox" name="Programming" value="processing">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >python
+  <input type="checkbox" name="Programming" value="python">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" ruby
+  <input type="checkbox" name="Programming"value="ruby">>
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >sml
+  <input type="checkbox" name="Programming" value="sml">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >swift
+  <input type="checkbox" name="Programming" value="swift">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >latex
+  <input type="checkbox" name="Programming" value="latex" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >unity
+  <input type="checkbox" name="Programming" value="unity">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >unix
+  <input type="checkbox" name="Programming" value="unix" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >visual basic
+  <input type="checkbox" name="Programming" value="visual basic" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >wolfram language
+  <input type="checkbox" name="Programming" value="wolfram language">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >xquery
+  <input type="checkbox" name="Programming" value="xquery">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container">sql
+  <input type="checkbox" name="Programming"  value="sql">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >node.js
+  <input type="checkbox" name="Programming" value="node.js">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >scala
+  <input type="checkbox" name="Programming" value="scala" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >kdb
+  <input type="checkbox" name="Programming" value="kdb" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >jquery
+  <input type="checkbox" name="Programming" value="jquery">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >mongodb
+  <input type="checkbox" name="Programming" value="mongodb">
+  <span class="checkmark"></span>
+  
+</label>
+
+  
+  
+  
+</div>
+
+<div id="cs" class="tabcontent">
+<label class="container" >computer
+  <input type="checkbox" name="cs" value="computer"  >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >software
+  <input type="checkbox" name="cs" value="software" >
+  <span class="checkmark"></span>
+  
+</label>
+
+  <label class="container" >computer science
+  <input type="checkbox" name="cs" value="computer science">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >prototype
+  <input type="checkbox" name="cs" value="prototype" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >structured design
+  <input type="checkbox" name="cs" value="structured design">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >code development
+  <input type="checkbox" name="cs" value="code development">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >communication skills
+  <input type="checkbox" name="cs" value="communication skills" >
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >problem solving
+  <input type="checkbox" name="cs" value="problem solving">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >software design
+  <input type="checkbox" name="cs" value="software design">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >systems
+  <input type="checkbox" name="cs" value="systems">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >web
+  <input type="checkbox" name="cs" value="web" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >client
+  <input type="checkbox" name="cs" value="client" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >testing
+  <input type="checkbox" name="cs" value="testing">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="SDLC">SDLC
+  <input type="checkbox" name="cs" value="SDLC">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="development process">development process
+  <input type="checkbox" name="cs" value="development process">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="database management systems">database management systems
+  <input type="checkbox" name="cs" value="database management systems">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="web applications">web applications
+  <input type="checkbox" name="cs" value="web applications" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="code">code
+  <input type="checkbox" name="cs" value="code">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="user support">user support
+  <input type="checkbox" name="cs" value="user support">
+  <span class="checkmark"></span>
+  
+
+  
+</label>
+  <label class="container" id="developing">developing
+  <input type="checkbox" name="cs" value="developing">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="software">software
+  <input type="checkbox" name="cs" value="software">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="server administration">server administration
+  <input type="checkbox" name="cs" value="server administration">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="machine learning">machine learning
+  <input type="checkbox" name="cs" value="machine learning">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="algorithms">alogorithms
+  <input type="checkbox" name="cs" value="algorithms">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="team">team
+  <input type="checkbox" name="cs" value="team">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="programming language">programming language
+  <input type="checkbox" name="cs" value="programming language">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="database">database
+  <input type="checkbox" name="cs" value="database">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="artificial intelligence">artificial intelligence
+  <input type="checkbox" name="cs" value="artificial intelligence">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" id="administrator">administrator
+  <input type="checkbox" name="cs" value="administrator">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  
+</div>
+
+<div id="engineering" class="tabcontent">
+<label class="container" >chemical
+  <input type="checkbox" name="engineering" value="chemical">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >civil
+  <input type="checkbox"  name="engineering" value="civil">
+  <span class="checkmark"></span>
+  </label>
+  
+  <label class="container" >mechanical
+  <input type="checkbox"  name="engineering" value="mechanical">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >CAD
+  <input type="checkbox" name="engineering" value="CAD">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >design
+  <input type="checkbox" name="engineering" value="design" >
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >mechanics
+  <input type="checkbox"  name="engineering" value="mechanics">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >analysis
+  <input type="checkbox"  name="engineering" value="analysis">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >systems
+  <input type="checkbox"  name="engineering" value="systems">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >technical
+  <input type="checkbox" name="engineering" value="technical">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >autodesk
+  <input type="checkbox" name="engineering" value="autodesk">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >inventor
+  <input type="checkbox" name="engineering" value="inventor">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >skills
+  <input type="checkbox" name="engineering" value="skills">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >realization
+  <input type="checkbox" name="engineering" value="realization" >
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >technology
+  <input type="checkbox" name="engineering" value="technology">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >functionality
+  <input type="checkbox" name="engineering" value="functionality" >
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >hardware
+  <input type="checkbox"  name="engineering" value="hardware">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >design process
+  <input type="checkbox" name="engineering" value="design process">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >process control
+  <input type="checkbox" name="engineering" value="process control" >
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >protyping
+  <input type="checkbox" name="engineering" value="protyping">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >team
+  <input type="checkbox" name="engineering"  value="team">
+  <span class="checkmark"></span>
+  
+</label>
+  
+  <label class="container" >project conceptualization
+  <input type="checkbox" name="engineering" value="project conceptualization">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >design verification
+  <input type="checkbox" name="engineering" value="design verification">
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >project management
+  <input type="checkbox" name="engineering" value="project management" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >structural design
+  <input type="checkbox" name="engineering" value="structural design" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >build
+  <input type="checkbox" name="engineering" value="build" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >modeling
+  <input type="checkbox" name="engineering" value="modeling" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >buildings
+  <input type="checkbox" name="engineering" value="buildings" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >tests
+  <input type="checkbox" name="engineering" value="tests" >
+  <span class="checkmark"></span>
+  
+</label>
+  <label class="container" >application
+  <input type="checkbox" name="engineering" value="application"  >
+  <span class="checkmark"></span>
+  
+</label>
+  
+  
+</div>
+
+
+
+
+ <button type="submit" name="submit" class="button"  value="Submit" >Submit</button>
+
+
+
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script>
+  </form>   
+</body>
+</html> 

@@ -1,0 +1,1325 @@
+Software score: 0.0
+Engineering Score: 5.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 18.75
+Avergae Score: 5.9375
+Overall Score: 5.9375
+Programming Score: 5.0
+GPA Score: 8.75
+University Score: 14.925
+Email: ashleywo@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 10.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 12.5
+Avergae Score: 5.625
+Overall Score: 5.625
+Programming Score: 2.5
+GPA Score: 6.25
+University Score: 14.925
+Email: likechem@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 2.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 18.75
+Avergae Score: 5.3125
+Overall Score: 5.3125
+Programming Score: 5.0
+GPA Score: 12.4
+University Score: 14.925
+Email: annalist@cmu.edu.
+
+
+
+Software score: 5.0
+Engineering Score: 10.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 6.25
+Avergae Score: 5.3125
+Overall Score: 5.3125
+Programming Score: 1.25
+GPA Score: 6.25
+University Score: 14.1
+Email: erenzi@smith.edu
+
+
+
+Software score: 0.0
+Engineering Score: 7.5
+Financial Score: 0.0
+Management Score: 6.25
+Arts Score: 6.25
+Avergae Score: 5.0
+Overall Score: 5.0
+Programming Score: 2.5
+GPA Score: 8.75
+University Score: 14.925
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 6.25
+Arts Score: 12.5
+Avergae Score: 4.6875
+Overall Score: 4.6875
+Programming Score: 1.25
+GPA Score: 6.25
+University Score: 14.925
+Email: archhetect@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 2.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 12.5
+Avergae Score: 3.75
+Overall Score: 3.75
+Programming Score: 1.25
+GPA Score: 6.25
+University Score: 14.025
+Email: johnson@smith.net
+
+
+
+Software score: 0.0
+Engineering Score: 2.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 12.5
+Avergae Score: 3.75
+Overall Score: 3.75
+Programming Score: 1.25
+GPA Score: 6.25
+University Score: 12.15
+Email: jgarcia@illinois.edu
+
+
+
+Software score: 0.0
+Engineering Score: 7.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 6.25
+Avergae Score: 3.4375
+Overall Score: 3.4375
+Programming Score: 1.25
+GPA Score: 6.25
+University Score: 14.399999999999999
+Email: freshman@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 6.25
+Management Score: 0.0
+Arts Score: 6.25
+Avergae Score: 3.125
+Overall Score: 3.125
+Programming Score: 2.5
+GPA Score: 9.75
+University Score: 14.925
+Email: ttorres@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 5.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 6.25
+Avergae Score: 2.8125
+Overall Score: 2.8125
+Programming Score: 1.25
+GPA Score: 7.625
+University Score: 14.25
+Email: ineedajob@unemployed.com
+
+
+
+Software score: 0.0
+Engineering Score: 5.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 6.25
+Avergae Score: 2.8125
+Overall Score: 2.8125
+Programming Score: 1.25
+GPA Score: 9.075
+University Score: 14.925
+Email: FNOVEL@CMU.EDU
+
+
+
+Software score: 0.0
+Engineering Score: 2.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 6.25
+Avergae Score: 2.1875
+Overall Score: 2.1875
+Programming Score: 1.25
+GPA Score: 6.25
+University Score: 3.375
+Email: jsample99@aol.com
+
+
+
+Software score: 0.0
+Engineering Score: 2.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 6.25
+Avergae Score: 2.1875
+Overall Score: 2.1875
+Programming Score: 1.25
+GPA Score: 6.25
+University Score: 14.25
+Email: jsample99@psu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 6.25
+Avergae Score: 1.5625
+Overall Score: 1.5625
+Programming Score: 1.25
+GPA Score: 6.25
+University Score: 14.25
+Email: jsample88@psu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 6.25
+Avergae Score: 1.5625
+Overall Score: 1.5625
+Programming Score: 1.25
+GPA Score: 9.75
+University Score: 14.925
+Email: sology@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 6.25
+Avergae Score: 1.5625
+Overall Score: 1.5625
+Programming Score: 1.25
+GPA Score: 9.375
+University Score: 14.925
+Email: ecephd@cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 5.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 1.25
+Overall Score: 1.25
+Programming Score: 2.5
+GPA Score: 6.25
+University Score: 14.925
+Email: mtytwong3388@yahoo.com
+
+
+
+Software score: 0.0
+Engineering Score: 2.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 0.625
+Overall Score: 0.625
+Programming Score: 1.25
+GPA Score: 6.25
+University Score: 12.825
+Email: nazliuzgur@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 25.0
+Financial Score: 0.0
+Management Score: 1.25
+Arts Score: 5.88235294117647
+Avergae Score: 8.033088235294118
+Overall Score: 8.033088235294118
+Programming Score: 1.0
+GPA Score: 6.25
+University Score: 14.925
+Email: likechem@andrew.cmu.edu
+
+
+
+Software score: 2.272727272727273
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 1.25
+Arts Score: 7.352941176470589
+Avergae Score: 6.885583778966131
+Overall Score: 6.885583778966131
+Programming Score: 2.5
+GPA Score: 8.75
+University Score: 14.925
+Email: ashleywo@andrew.cmu.edu
+
+
+
+Software score: 4.545454545454546
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 1.25
+Arts Score: 4.411764705882353
+Avergae Score: 6.7184714795008915
+Overall Score: 6.7184714795008915
+Programming Score: 0.5
+GPA Score: 6.25
+University Score: 14.1
+Email: erenzi@smith.edu
+
+
+
+Software score: 0.0
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 1.25
+Arts Score: 1.4705882352941175
+Avergae Score: 4.846813725490195
+Overall Score: 4.846813725490195
+Programming Score: 0.5
+GPA Score: 7.625
+University Score: 14.25
+Email: ineedajob@unemployed.com
+
+
+
+Software score: 2.272727272727273
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 2.5
+Arts Score: 5.88235294117647
+Avergae Score: 4.747103386809269
+Overall Score: 4.747103386809269
+Programming Score: 3.0
+GPA Score: 12.4
+University Score: 14.925
+Email: annalist@cmu.edu.
+
+
+
+Software score: 0.0
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 4.166666666666666
+Overall Score: 4.166666666666666
+Programming Score: 1.0
+GPA Score: 6.25
+University Score: 14.925
+Email: mtytwong3388@yahoo.com
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 7.352941176470589
+Avergae Score: 3.9215686274509807
+Overall Score: 3.9215686274509807
+Programming Score: 0.5
+GPA Score: 6.25
+University Score: 14.025
+Email: johnson@smith.net
+
+
+
+Software score: 2.272727272727273
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 1.25
+Arts Score: 2.941176470588235
+Avergae Score: 3.6993092691622103
+Overall Score: 3.6993092691622103
+Programming Score: 1.0
+GPA Score: 8.75
+University Score: 14.925
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 4.411764705882353
+Avergae Score: 3.1862745098039214
+Overall Score: 3.1862745098039214
+Programming Score: 0.5
+GPA Score: 6.25
+University Score: 12.15
+Email: jgarcia@illinois.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 1.6666666666666667
+Management Score: 6.25
+Arts Score: 4.411764705882353
+Avergae Score: 3.082107843137255
+Overall Score: 3.082107843137255
+Programming Score: 0.5
+GPA Score: 9.75
+University Score: 14.925
+Email: ttorres@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 1.6666666666666667
+Management Score: 0.0
+Arts Score: 1.4705882352941175
+Avergae Score: 2.867647058823529
+Overall Score: 2.867647058823529
+Programming Score: 0.5
+GPA Score: 6.25
+University Score: 14.25
+Email: jsample99@psu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 1.25
+Arts Score: 1.4705882352941175
+Avergae Score: 2.7634803921568625
+Overall Score: 2.7634803921568625
+Programming Score: 0.5
+GPA Score: 6.25
+University Score: 3.375
+Email: jsample99@aol.com
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 1.25
+Arts Score: 1.4705882352941175
+Avergae Score: 2.7634803921568625
+Overall Score: 2.7634803921568625
+Programming Score: 1.0
+GPA Score: 9.075
+University Score: 14.925
+Email: FNOVEL@CMU.EDU
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 5.0
+Arts Score: 5.88235294117647
+Avergae Score: 2.7205882352941178
+Overall Score: 2.7205882352941178
+Programming Score: 1.0
+GPA Score: 9.75
+University Score: 14.925
+Email: sology@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 2.5
+Arts Score: 0.0
+Avergae Score: 2.708333333333333
+Overall Score: 2.708333333333333
+Programming Score: 0.5
+GPA Score: 6.25
+University Score: 12.825
+Email: nazliuzgur@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 3.75
+Arts Score: 5.88235294117647
+Avergae Score: 2.4080882352941178
+Overall Score: 2.4080882352941178
+Programming Score: 0.5
+GPA Score: 6.25
+University Score: 14.925
+Email: archhetect@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 7.352941176470589
+Avergae Score: 1.8382352941176472
+Overall Score: 1.8382352941176472
+Programming Score: 1.0
+GPA Score: 9.375
+University Score: 14.925
+Email: ecephd@cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 1.4705882352941175
+Avergae Score: 0.3676470588235294
+Overall Score: 0.3676470588235294
+Programming Score: 0.5
+GPA Score: 6.25
+University Score: 14.25
+Email: jsample88@psu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 1.4705882352941175
+Avergae Score: 0.3676470588235294
+Overall Score: 0.3676470588235294
+Programming Score: 0.5
+GPA Score: 6.25
+University Score: 14.399999999999999
+Email: freshman@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 25.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 5.0
+Avergae Score: 7.5
+Overall Score: 7.5
+Programming Score: 0.625
+GPA Score: 0.625
+University Score: 14.1
+Email: erenzi@smith.edu
+
+
+
+Software score: 0.0
+Engineering Score: 25.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 5.0
+Avergae Score: 7.5
+Overall Score: 7.5
+Programming Score: 0.625
+GPA Score: 0.7625
+University Score: 14.25
+Email: ineedajob@unemployed.com
+
+
+
+Software score: 0.0
+Engineering Score: 25.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 5.0
+Avergae Score: 7.5
+Overall Score: 7.5
+Programming Score: 1.25
+GPA Score: 0.625
+University Score: 14.925
+Email: likechem@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 12.5
+Financial Score: 0.0
+Management Score: 6.25
+Arts Score: 10.0
+Avergae Score: 7.1875
+Overall Score: 7.1875
+Programming Score: 5.0
+GPA Score: 1.24
+University Score: 14.925
+Email: annalist@cmu.edu.
+
+
+
+Software score: 0.0
+Engineering Score: 12.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 15.0
+Avergae Score: 6.875
+Overall Score: 6.875
+Programming Score: 0.625
+GPA Score: 0.625
+University Score: 14.025
+Email: johnson@smith.net
+
+
+
+Software score: 0.0
+Engineering Score: 12.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 15.0
+Avergae Score: 6.875
+Overall Score: 6.875
+Programming Score: 0.625
+GPA Score: 0.625
+University Score: 12.15
+Email: jgarcia@illinois.edu
+
+
+
+Software score: 0.0
+Engineering Score: 25.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 6.25
+Overall Score: 6.25
+Programming Score: 1.875
+GPA Score: 0.625
+University Score: 14.925
+Email: mtytwong3388@yahoo.com
+
+
+
+Software score: 0.0
+Engineering Score: 12.5
+Financial Score: 0.0
+Management Score: 6.25
+Arts Score: 5.0
+Avergae Score: 5.9375
+Overall Score: 5.9375
+Programming Score: 0.625
+GPA Score: 0.625
+University Score: 3.375
+Email: jsample99@aol.com
+
+
+
+Software score: 0.0
+Engineering Score: 12.5
+Financial Score: 0.0
+Management Score: 6.25
+Arts Score: 5.0
+Avergae Score: 5.9375
+Overall Score: 5.9375
+Programming Score: 1.25
+GPA Score: 0.9075
+University Score: 14.925
+Email: FNOVEL@CMU.EDU
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 12.5
+Arts Score: 10.0
+Avergae Score: 5.625
+Overall Score: 5.625
+Programming Score: 0.625
+GPA Score: 0.625
+University Score: 14.925
+Email: archhetect@gmail.com
+
+
+
+Software score: 3.571428571428571
+Engineering Score: 12.5
+Financial Score: 0.0
+Management Score: 6.25
+Arts Score: 0.0
+Avergae Score: 5.580357142857142
+Overall Score: 5.580357142857142
+Programming Score: 1.875
+GPA Score: 0.875
+University Score: 14.925
+
+
+
+Software score: 0.0
+Engineering Score: 12.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 5.0
+Avergae Score: 4.375
+Overall Score: 4.375
+Programming Score: 0.625
+GPA Score: 0.625
+University Score: 14.25
+Email: jsample99@psu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 4.166666666666666
+Management Score: 6.25
+Arts Score: 5.0
+Avergae Score: 3.854166666666666
+Overall Score: 3.854166666666666
+Programming Score: 1.25
+GPA Score: 0.975
+University Score: 14.925
+Email: ttorres@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 12.5
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 3.125
+Overall Score: 3.125
+Programming Score: 0.625
+GPA Score: 0.625
+University Score: 12.825
+Email: nazliuzgur@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 10.0
+Avergae Score: 2.5
+Overall Score: 2.5
+Programming Score: 1.25
+GPA Score: 0.975
+University Score: 14.925
+Email: sology@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 10.0
+Avergae Score: 2.5
+Overall Score: 2.5
+Programming Score: 1.25
+GPA Score: 0.9375
+University Score: 14.925
+Email: ecephd@cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 25.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 15.0
+Avergae Score: 10.0
+Overall Score: 10.0
+Programming Score: 4.375
+GPA Score: 0.875
+University Score: 14.925
+Email: ashleywo@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 5.0
+Avergae Score: 1.25
+Overall Score: 1.25
+Programming Score: 0.625
+GPA Score: 0.625
+University Score: 14.25
+Email: jsample88@psu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 5.0
+Avergae Score: 1.25
+Overall Score: 1.25
+Programming Score: 0.625
+GPA Score: 0.625
+University Score: 14.399999999999999
+Email: freshman@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 25.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 8.333333333333332
+Avergae Score: 8.333333333333332
+Overall Score: 8.333333333333332
+Programming Score: 1.4285714285714284
+GPA Score: 0.625
+University Score: 14.925
+Email: likechem@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 20.833333333333336
+Avergae Score: 7.291666666666667
+Overall Score: 7.291666666666667
+Programming Score: 0.7142857142857142
+GPA Score: 0.625
+University Score: 14.025
+Email: johnson@smith.net
+
+
+
+Software score: 4.166666666666666
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 8.333333333333332
+Avergae Score: 7.291666666666665
+Overall Score: 7.291666666666665
+Programming Score: 3.5714285714285716
+GPA Score: 0.875
+University Score: 14.925
+Email: ashleywo@andrew.cmu.edu
+
+
+
+Software score: 4.166666666666666
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 8.333333333333332
+Avergae Score: 7.291666666666665
+Overall Score: 7.291666666666665
+Programming Score: 0.7142857142857142
+GPA Score: 0.625
+University Score: 14.1
+Email: erenzi@smith.edu
+
+
+
+Software score: 4.166666666666666
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 12.5
+Avergae Score: 6.25
+Overall Score: 6.25
+Programming Score: 3.5714285714285716
+GPA Score: 1.24
+University Score: 14.925
+Email: annalist@cmu.edu.
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 12.5
+Avergae Score: 5.208333333333333
+Overall Score: 5.208333333333333
+Programming Score: 0.7142857142857142
+GPA Score: 0.625
+University Score: 12.15
+Email: jgarcia@illinois.edu
+
+
+
+Software score: 0.0
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 4.166666666666666
+Avergae Score: 5.208333333333332
+Overall Score: 5.208333333333332
+Programming Score: 0.7142857142857142
+GPA Score: 0.7625
+University Score: 14.25
+Email: ineedajob@unemployed.com
+
+
+
+Software score: 4.166666666666666
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 4.166666666666666
+Arts Score: 4.166666666666666
+Avergae Score: 5.208333333333332
+Overall Score: 5.208333333333332
+Programming Score: 2.142857142857143
+GPA Score: 0.875
+University Score: 14.925
+
+
+
+Software score: 0.0
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 4.166666666666666
+Overall Score: 4.166666666666666
+Programming Score: 2.142857142857143
+GPA Score: 0.625
+University Score: 14.925
+Email: mtytwong3388@yahoo.com
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 16.666666666666664
+Avergae Score: 4.166666666666666
+Overall Score: 4.166666666666666
+Programming Score: 0.7142857142857142
+GPA Score: 0.9375
+University Score: 14.925
+Email: ecephd@cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 12.5
+Avergae Score: 3.125
+Overall Score: 3.125
+Programming Score: 0.7142857142857142
+GPA Score: 0.625
+University Score: 14.925
+Email: archhetect@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 4.166666666666666
+Avergae Score: 3.1249999999999996
+Overall Score: 3.1249999999999996
+Programming Score: 0.7142857142857142
+GPA Score: 0.625
+University Score: 3.375
+Email: jsample99@aol.com
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 4.166666666666666
+Avergae Score: 3.1249999999999996
+Overall Score: 3.1249999999999996
+Programming Score: 0.7142857142857142
+GPA Score: 0.625
+University Score: 14.25
+Email: jsample99@psu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 4.166666666666666
+Avergae Score: 3.1249999999999996
+Overall Score: 3.1249999999999996
+Programming Score: 0.7142857142857142
+GPA Score: 0.9075
+University Score: 14.925
+Email: FNOVEL@CMU.EDU
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 5.0
+Management Score: 0.0
+Arts Score: 4.166666666666666
+Avergae Score: 2.2916666666666665
+Overall Score: 2.2916666666666665
+Programming Score: 1.4285714285714284
+GPA Score: 0.975
+University Score: 14.925
+Email: ttorres@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 2.083333333333333
+Overall Score: 2.083333333333333
+Programming Score: 0.7142857142857142
+GPA Score: 0.625
+University Score: 12.825
+Email: nazliuzgur@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 8.333333333333332
+Avergae Score: 2.083333333333333
+Overall Score: 2.083333333333333
+Programming Score: 1.4285714285714284
+GPA Score: 0.975
+University Score: 14.925
+Email: sology@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 4.166666666666666
+Avergae Score: 1.0416666666666665
+Overall Score: 1.0416666666666665
+Programming Score: 0.7142857142857142
+GPA Score: 0.625
+University Score: 14.25
+Email: jsample88@psu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 4.166666666666666
+Avergae Score: 1.0416666666666665
+Overall Score: 1.0416666666666665
+Programming Score: 0.7142857142857142
+GPA Score: 0.625
+University Score: 14.399999999999999
+Email: freshman@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 25.0
+Avergae Score: 8.333333333333332
+Overall Score: 8.333333333333332
+Programming Score: 5.0
+GPA Score: 1.24
+University Score: 14.925
+Email: annalist@cmu.edu.
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 25.0
+Avergae Score: 8.333333333333332
+Overall Score: 8.333333333333332
+Programming Score: 2.5
+GPA Score: 0.875
+University Score: 14.925
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 25.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 6.25
+Overall Score: 6.25
+Programming Score: 2.5
+GPA Score: 0.975
+University Score: 14.925
+Email: ttorres@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 25.0
+Arts Score: 0.0
+Avergae Score: 6.25
+Overall Score: 6.25
+Programming Score: 2.5
+GPA Score: 0.625
+University Score: 14.925
+Email: archhetect@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 4.166666666666666
+Overall Score: 4.166666666666666
+Programming Score: 2.5
+GPA Score: 0.625
+University Score: 14.1
+Email: erenzi@smith.edu
+
+
+
+Software score: 0.0
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 4.166666666666666
+Overall Score: 4.166666666666666
+Programming Score: 2.5
+GPA Score: 0.7625
+University Score: 14.25
+Email: ineedajob@unemployed.com
+
+
+
+Software score: 0.0
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 4.166666666666666
+Overall Score: 4.166666666666666
+Programming Score: 2.5
+GPA Score: 0.625
+University Score: 14.925
+Email: mtytwong3388@yahoo.com
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 2.083333333333333
+Overall Score: 2.083333333333333
+Programming Score: 2.5
+GPA Score: 0.625
+University Score: 14.025
+Email: johnson@smith.net
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 2.083333333333333
+Overall Score: 2.083333333333333
+Programming Score: 2.5
+GPA Score: 0.625
+University Score: 12.15
+Email: jgarcia@illinois.edu
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 2.083333333333333
+Overall Score: 2.083333333333333
+Programming Score: 2.5
+GPA Score: 0.625
+University Score: 3.375
+Email: jsample99@aol.com
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 2.083333333333333
+Overall Score: 2.083333333333333
+Programming Score: 2.5
+GPA Score: 0.625
+University Score: 14.25
+Email: jsample99@psu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 2.083333333333333
+Overall Score: 2.083333333333333
+Programming Score: 2.5
+GPA Score: 0.625
+University Score: 12.825
+Email: nazliuzgur@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 8.333333333333332
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 2.083333333333333
+Overall Score: 2.083333333333333
+Programming Score: 2.5
+GPA Score: 0.9075
+University Score: 14.925
+Email: FNOVEL@CMU.EDU
+
+
+
+Software score: 0.0
+Engineering Score: 25.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 25.0
+Avergae Score: 12.5
+Overall Score: 12.5
+Programming Score: 5.0
+GPA Score: 0.625
+University Score: 14.925
+Email: likechem@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 16.666666666666664
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 25.0
+Avergae Score: 10.416666666666666
+Overall Score: 10.416666666666666
+Programming Score: 5.0
+GPA Score: 0.875
+University Score: 14.925
+Email: ashleywo@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 0.0
+Overall Score: 0.0
+Programming Score: 2.5
+GPA Score: 0.625
+University Score: 14.25
+Email: jsample88@psu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 0.0
+Overall Score: 0.0
+Programming Score: 2.5
+GPA Score: 0.625
+University Score: 14.399999999999999
+Email: freshman@gmail.com
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 0.0
+Overall Score: 0.0
+Programming Score: 2.5
+GPA Score: 0.975
+University Score: 14.925
+Email: sology@andrew.cmu.edu
+
+
+
+Software score: 0.0
+Engineering Score: 0.0
+Financial Score: 0.0
+Management Score: 0.0
+Arts Score: 0.0
+Avergae Score: 0.0
+Overall Score: 0.0
+Programming Score: 2.5
+GPA Score: 0.9375
+University Score: 14.925
+Email: ecephd@cmu.edu
+
+
+
